@@ -14,7 +14,6 @@ The repository may include:
 - Practice Material
 - Course Outlines
 - Reference Books / PDFs
-- Past Papers
 - Miscellaneous Study Resources
 
 ## Purpose
