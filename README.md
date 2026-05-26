@@ -1,7 +1,7 @@
 # Bachelors-of-Electrical-Engineering-
 
 
-This repository contains my collected academic resources from the first four semesters of my BEE degree at National University of Sciences & Technology (NUST), Islamabad.
+This repository contains my collected academic resources from the first four semesters of my BEE degree at National University of Sciences & Technology (NUST), Islamabad. (Links for files at the end of README)
 
 ## Contents
 
@@ -75,3 +75,19 @@ Feel free to contribute:
 # Star the Repository
 
 If these resources helped you academically, consider starring the repository.
+
+
+
+---
+
+# Check Here:
+
+1st Semester: https://1024terabox.com/s/1DIhZMiMQilTCfZblWtaU2g
+
+2nd Semester: https://1024terabox.com/s/1hk8u8mI3h0TAxZqfPl2ByA
+
+3rd Semester: https://1024terabox.com/s/1ne9FPQUgGdSgbjPvEG2sXQ
+
+4th Semester: https://1024terabox.com/s/1bimaQkbMPAL-EuJ_H_fTqw
+
+
